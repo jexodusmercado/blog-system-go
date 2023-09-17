@@ -1,1 +1,1 @@
-# blog-system-be
+# Blog system
